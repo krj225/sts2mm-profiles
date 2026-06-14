@@ -16,8 +16,8 @@
       "folder_name": "BaseLib.3.1.2",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2_eaadd120.zip",
-      "bundle_sha256": "eaadd1207e92c59836d593a0ecf0949ce224bcd75b56a7cd9979c01c99002351"
+      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2_5982a94d.zip",
+      "bundle_sha256": "5982a94d592591942bbfce238d5b21bf361d196cfa947b32d98bed6aeac91e37"
     },
     {
       "name": "BetterSpire2",
@@ -46,8 +46,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.2_a83484ac.zip",
-      "bundle_sha256": "a83484ac65cd9f645d7f2529d5eb9adfbcf1b34f4510494880db8aa623f4ce31"
+      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.2_b979eae0.zip",
+      "bundle_sha256": "b979eae02e4df562381e7a00616d1edc72afe90d32fe44b3d08ca888303ccafa"
     },
     {
       "name": "ElectricShrympPowers",
@@ -61,8 +61,8 @@
       "folder_name": "ElecShrympPowers",
       "mod_id": "ElectricShrympPowers",
       "enabled": true,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/ElectricShrympPowers_v1.0.0_0349e690.zip",
-      "bundle_sha256": "0349e690f090f942f72e6431350e451a0339b15e7d51b67f0a3a25c8a5d5d704"
+      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/ElectricShrympPowers_v1.0.0_6118a07b.zip",
+      "bundle_sha256": "6118a07b76eb24870a4c0978423abaa8ef6a595475148f9f10eb68c668dd63ae"
     },
     {
       "name": "SealsStampablePowers",
@@ -77,8 +77,8 @@
       "folder_name": "SealsStampablePowers",
       "mod_id": "SealsStampablePowers",
       "enabled": true,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/SealsStampablePowers_v1.0.1_c05e45d9.zip",
-      "bundle_sha256": "c05e45d98327c53b280851618ff41c6d89b66bd5018c1a06bed0f09eaddc3550"
+      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/SealsStampablePowers_v1.0.1_bda37dcb.zip",
+      "bundle_sha256": "bda37dcb04761fba0004bff92bb31ecbcd95403b3c41e00890658afb88cb0bc6"
     },
     {
       "name": "Unified Save Path",
@@ -93,180 +93,11 @@
       "folder_name": "UnifiedSavePaths-6-1-0-3-1773792441",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_f56220e4.zip",
-      "bundle_sha256": "f56220e47c4ed2e66044ef5abe2926170ae88e5d1ed555e56dc9536ec362052c"
-    },
-    {
-      "name": "Campfire Trading",
-      "version": "v1.0",
-      "source": null,
-      "hash": "7de49de0d1663d5d6cd3607eb963f560472800f37b3b9839096583fb41b387f6",
-      "files": [
-        "STS2Trade\\STS2Trade.dll",
-        "STS2Trade\\STS2Trade.json",
-        "STS2Trade\\STS2Trade.pck"
-      ],
-      "folder_name": "STS2Trade",
-      "mod_id": "STS2Trade",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/Campfire_Trading_v1.0_c570031c.zip",
-      "bundle_sha256": "c570031c7c5eee46116291f22784f287720cfb1370e124e0c5471eff29884c45"
-    },
-    {
-      "name": "Card Art Editor",
-      "version": "0.1.0",
-      "source": null,
-      "hash": "7ccd49c05613a3f5af481ba341af1786946248eb4e6ea98204930f601bd274a2",
-      "files": [
-        "card_art_editor\\card_art_editor\\card_art_editor.dll",
-        "card_art_editor\\card_art_editor\\card_art_editor.pck",
-        "card_art_editor\\card_art_editor\\manifest.json"
-      ],
-      "folder_name": "card_art_editor",
-      "mod_id": "card_art_editor",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/Card_Art_Editor_v0.1.0_08293be5.zip",
-      "bundle_sha256": "08293be5ffbe2228ca654070ae003af08c4cf3905675bf2b9706dd58647f2dfb"
-    },
-    {
-      "name": "discord_game_sdk",
-      "version": "unknown",
-      "source": null,
-      "hash": "527768710ddb0953fce5eb1700c2566b6451135d76f1d0610b63907cd5ba94c5",
-      "files": [
-        "discord_game_sdk\\discord_game_sdk.dll"
-      ],
-      "folder_name": "discord_game_sdk",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/discord_game_sdk_vunknown_9f4ddf2a.zip",
-      "bundle_sha256": "9f4ddf2a2d842e000f08f22d78b0af12766cc65bada326898428e3d447ed3a0a"
-    },
-    {
-      "name": "Head Start Modifier",
-      "version": "v1.0.0",
-      "source": null,
-      "hash": "47da7fa063c482ebd05ae79381d8ba328c6bf07ed8988e91ea655f14f0fb8580",
-      "files": [
-        "HeadstartModifier\\HeadstartModifier.dll",
-        "HeadstartModifier\\HeadstartModifier.json",
-        "HeadstartModifier\\HeadstartModifier.pck"
-      ],
-      "folder_name": "HeadstartModifier",
-      "mod_id": "HeadstartModifier",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/Head_Start_Modifier_v1.0.0_8e39761f.zip",
-      "bundle_sha256": "8e39761f00af87e1767ec6c0beba5b0ec12a234d8d9fdaad31aa1ae16995756b"
-    },
-    {
-      "name": "ironcladSkin",
-      "version": "0.0.1",
-      "source": null,
-      "hash": "7dc147e25772a8babb3b924b0787106afa24730b0b8c180206651bd93b1581fc",
-      "files": [
-        "ironcladSkin\\ironcladSkin.pck",
-        "ironcladSkin\\mod_manifest.json"
-      ],
-      "folder_name": "ironcladSkin",
-      "mod_id": "ironcladSkin",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1_d470e47c.zip",
-      "bundle_sha256": "d470e47c9f3033764573de5100cadfd4fe4e57da0aca18a61e86cfd4b4cecbd1"
-    },
-    {
-      "name": "Party Signals - Automatic Card Callouts",
-      "version": "1.0.2",
-      "source": null,
-      "hash": "66cf515274427d3545a20d32fa749e26b8b665e6b249d0ab8db6c563a7cd1741",
-      "files": [
-        "partysignals\\partysignals.dll",
-        "partysignals\\partysignals.json",
-        "partysignals\\translations\\deu.loc",
-        "partysignals\\translations\\eng.loc",
-        "partysignals\\translations\\esp.loc",
-        "partysignals\\translations\\fra.loc",
-        "partysignals\\translations\\ita.loc",
-        "partysignals\\translations\\jpn.loc",
-        "partysignals\\translations\\kor.loc",
-        "partysignals\\translations\\pol.loc",
-        "partysignals\\translations\\ptb.loc",
-        "partysignals\\translations\\rus.loc",
-        "partysignals\\translations\\spa.loc",
-        "partysignals\\translations\\tha.loc",
-        "partysignals\\translations\\tur.loc",
-        "partysignals\\translations\\zhs.loc"
-      ],
-      "folder_name": "partysignals",
-      "mod_id": "partysignals",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.2_0d2d796e.zip",
-      "bundle_sha256": "0d2d796e3bd41f7caf407f0376792c4c376e6e99f94a140473db9431d6864af5"
-    },
-    {
-      "name": "Princess",
-      "version": "v0.0.1",
-      "source": null,
-      "hash": "b0cf0c0dc43713605797781826c9f8b810fbadd43c4d91365d29dde3ca25b57b",
-      "files": [
-        "Princess\\Princess.dll",
-        "Princess\\Princess.json",
-        "Princess\\Princess.pck",
-        "Princess\\Princess.pdb"
-      ],
-      "folder_name": "Princess",
-      "mod_id": "Princess",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_4c8e66c7.zip",
-      "bundle_sha256": "4c8e66c797d0711791410ea5b68a9f3d335138cb60c1c2256f1b4dc982373b4f"
-    },
-    {
-      "name": "silentSkin",
-      "version": "0.0.1",
-      "source": null,
-      "hash": "b137ebd5dde9fbf07adba96cf898e217d88453395dbf6a91c9ce1966819210d3",
-      "files": [
-        "silentSkin\\mod_manifest.json",
-        "silentSkin\\silentSkin.pck"
-      ],
-      "folder_name": "silentSkin",
-      "mod_id": "silentSkin",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_68d6b1c0.zip",
-      "bundle_sha256": "68d6b1c01b04ee91970656f08e4f72dd08b5ad21f4c3fb62470ab945bdbde16c"
-    },
-    {
-      "name": "The Hermit",
-      "version": "v2.0.0",
-      "source": null,
-      "hash": "6c7f9959d889e0b5062b1c8f8e3b7183ecf3e5d816224214c6d2ecf99a9c550f",
-      "files": [
-        "HermitMod\\HermitMod.dll",
-        "HermitMod\\HermitMod.json",
-        "HermitMod\\HermitMod.pck"
-      ],
-      "folder_name": "HermitMod",
-      "mod_id": "HermitMod",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/The_Hermit_v2.0.0_b534667a.zip",
-      "bundle_sha256": "b534667a33849f152b43ad7cfad933913d0e55cda7813d4df117131b2496b62e"
-    },
-    {
-      "name": "Watcher",
-      "version": "0.5.17",
-      "source": null,
-      "hash": "3bae5d126ad2b2e80fb179aa216fc86100c3bee4a241ef10fa5c16819a128da3",
-      "files": [
-        "Watcher\\Watcher.dll",
-        "Watcher\\Watcher.json",
-        "Watcher\\Watcher.pck"
-      ],
-      "folder_name": "Watcher",
-      "mod_id": "Watcher",
-      "enabled": false,
-      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/Watcher_v0.5.17_38066fa8.zip",
-      "bundle_sha256": "38066fa8af5e536df7131f18317d645659412a33bfa4d7a49f05238cb5603846"
+      "bundle_url": "https://github.com/krj225/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_af1024e5.zip",
+      "bundle_sha256": "af1024e52a4b30a412d12a154e25651b068a6afd0a080d89f567eb506ad50b06"
     }
   ],
   "created_at": "2026-05-23T16:42:19.606250100Z",
-  "updated_at": "2026-05-23T16:42:34.607119900Z",
+  "updated_at": "2026-05-23T16:46:41.669968500Z",
   "public": false
 }
